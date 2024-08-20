@@ -19843,7 +19843,7 @@ var SharedModule = (function () {
 
 var environment = {
     production: true,
-    simulationType: __WEBPACK_IMPORTED_MODULE_0__app_model_document_type_model__["d" /* SimulationType */].Interactive,
+    simulationType: __WEBPACK_IMPORTED_MODULE_0__app_model_document_type_model__["d" /* SimulationType */].Demo,
 };
 
 
