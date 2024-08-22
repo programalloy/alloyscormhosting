@@ -32,9 +32,9 @@ Provided by Rustici Software - www.scorm.com.
 	</metadata>
 	<organizations default="B0">
 		<organization identifier="B0" adlseq:objectivesGlobalToSystem="false">
-			<title>Dynamics 365 Navigation Overview V6.0 - DemoSim</title>
+			<title>Dynamics 365 Navigation Overview V6.0 - InteractiveSim</title>
 			<item identifier="i1" identifierref="r1" isvisible="true">
-				<title>Epilogue Author Dynamics 365 Navigation Overview V6.0 - DemoSim</title>
+				<title>Epilogue Author Dynamics 365 Navigation Overview V6.0 - InteractiveSim</title>
 			</item>
 		</organization>
 	</organizations>
